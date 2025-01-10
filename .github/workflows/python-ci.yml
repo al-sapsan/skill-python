@@ -4,10 +4,10 @@ name: CI for Python apps
 on:
   push:
     branches:
-      - main
+      - module1
   pull_request:
     branches:
-      - main
+      - module1
 
 jobs:
   build:
