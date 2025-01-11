@@ -1,4 +1,0 @@
-4 name 'a' is not defined
-
-Total Errors: 1
-Error Lines: [4]
