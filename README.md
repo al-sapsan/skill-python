@@ -1,7 +1,8 @@
 ___
-# Приветствую Вас в профиле Олега Соколова!
+# Рад, что Вы решили посетить мой профиль!
 
-## Сейчас Вы находитесь в учебном репозитории курса "Python для инженеров".
+## Сейчас Вы находитесь в репозитории для работ курса "Python для инженеров".
+
 Данный репозиторий предназначен для размещения практических работ, скриптов и технической литературы.
 Структура репозитория поделена на ветви в соответствии с наименованием и нумерацией учебных модулей. 
 
@@ -10,13 +11,13 @@ ___
 ## С уважением, Олег Соколов.
 ___
 ___
-# Welcome to Oleg Sokolov's profile!
+# Glad you decided to visit my profile!
 
-## You are currently in the educational repository of the course "Python for engineers".
-This repository is intended for posting practical work, scripts and technical literature.
-The repository structure is divided into branches in accordance with the name and numbering of the training modules.
+## You are currently in the repository for the Python for Engineers course.
+This repository is intended for hosting practical papers, scripts, and technical literature.
+The repository structure is divided into branches according to the name and numbering of the training modules. 
 
-## Welcome to the repository and enjoy browsing!
+## Welcome to the repository and have an informative look!
 
-## Sincerely, Oleg Sokolov
+## Sincerely, Oleg Sokolov.
 ___
